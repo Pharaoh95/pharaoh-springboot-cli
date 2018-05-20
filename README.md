@@ -1,2 +1,2 @@
 # pharaoh-springboot-cli
-springboot与vue的自定义脚手架
+springboot自定义脚手架

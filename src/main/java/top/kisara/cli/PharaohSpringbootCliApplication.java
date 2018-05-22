@@ -1,4 +1,4 @@
-package top.kisara.springbootcli;
+package top.kisara.cli;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

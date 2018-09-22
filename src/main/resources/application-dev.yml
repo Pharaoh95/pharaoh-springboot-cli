@@ -5,8 +5,8 @@ server:
 spring:
   datasource:
     username: root
-    password: 123
-    url: jdbc:mysql://localhost/test
+    password: P@sswrd$1
+    url: jdbc:mysql://hongyitest.kisara.top/test
     hikari:
       minimum-idle: 2
       maximum-pool-size: 5

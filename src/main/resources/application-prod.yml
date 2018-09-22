@@ -1,0 +1,12 @@
+logging:
+  config: classpath:log-config/log4j2-dev.xml
+server:
+  port: 8181
+spring:
+  datasource:
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost/test
+    hikari:
+      minimum-idle: 2
+      maximum-pool-size: 5

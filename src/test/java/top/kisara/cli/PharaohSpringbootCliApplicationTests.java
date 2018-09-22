@@ -15,7 +15,7 @@ public class PharaohSpringbootCliApplicationTests {
 
     @Test
     public void contextLoads() {
-        log.info("pharaoh");
+        log.debug("pharaoh");
     }
 
 }
